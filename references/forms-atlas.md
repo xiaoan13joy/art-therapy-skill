@@ -107,6 +107,8 @@ Phase B1 开始时,大师**首要动作**:检查用户 Phase A 已给的身体�
 
 详见 `session-thread.md`"Phase A → Phase B"段。
 
+如果用户在 Phase A 已明确选择东方意象入口,按需读取 `eastern-body-imagery.md` 第 1-5 段,只把升降/聚散/开合/五行/四时转成方向、密度、边界、材质、光线或节奏。**不要把传统对应关系自动塞入画面,每个元素都先让用户选择。**
+
 ---
 
 ## 各形式详细 playbook
